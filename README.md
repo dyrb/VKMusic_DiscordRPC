@@ -1,4 +1,4 @@
 # VKMusic_DiscordRPC
 <p align="center">
-Discord RPC Музыки ВКонтакте!
+<h1>Discord RPC Музыки ВКонтакте!</h1>
 </p>
