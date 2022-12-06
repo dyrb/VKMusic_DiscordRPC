@@ -2,7 +2,7 @@ import vk_api
 from pypresence import Presence
 import time
 
-# VK API TOKEN  https://vkhost.github.io/  https://vk.com/editapp?act=create
+# VK API TOKEN  https://vkhost.github.io/  https://vk.com/editapp?act=create =)
 vk = vk_api.VkApi(token="")
 # Discord APPLICATION ID
 id = ""
